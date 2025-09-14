@@ -22,7 +22,7 @@ QA Skills & Expertise
 📌 Salesforce CRM QA Project – Account, Contact, Opportunity, Case
 
 📌 Salesforce Account, Contact, Oppotunity, Case, Upload File Creating Test Case (Google Sheet)[https://docs.google.com/spreadsheets/d/1tLbn7hW5uj-kKUeo6ucytP_nIm4hMYSxGsbWm1UDfPE/edit?usp=sharing]
-📌 Screenshots of Salesforce records Account, Contact, Opportunity, Case[Screenshot 2025-09-14 203539.png],[Screenshot 2025-09-14 203556.png],[Screenshot 2025-09-14 203733.png],[Screenshot 2025-09-14 203808.png].
+📌 Screenshots of Salesforce records Account, Contact, Opportunity, Case
 
 
 🎓 Certifications
