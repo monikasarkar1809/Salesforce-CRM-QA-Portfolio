@@ -77,7 +77,7 @@ Data accuracy checks
 
 📫 Connect with Me
 
-💼 LinkedIn
+💼 LinkedIn : https://www.linkedin.com/in/monika-sarkar-b86858269/
 
 ✉️ Email: monikasarkar1809@gmail.com
 
