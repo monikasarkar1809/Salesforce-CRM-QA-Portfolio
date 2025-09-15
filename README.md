@@ -19,7 +19,7 @@ QA Skills & Expertise
 
 🧪 QA Projects
 
-📌 1. Salesforce CRM QA Project – Account, Contact, Opportunity, Case
+📌 1. Salesforce QA – Standard Objects Testing
 
 This project contains test cases for core Salesforce standard objects:
 
@@ -36,7 +36,7 @@ Validation of workflows and relationships
 (Google Sheet)[https://docs.google.com/spreadsheets/d/1tLbn7hW5uj-kKUeo6ucytP_nIm4hMYSxGsbWm1UDfPE/edit?usp=sharing]
 📌 Screenshots of Salesforce records Account, Contact, Opportunity, Case
 
-📌 2.Salesforce Custom Object QA Project – Custom Object and Field Creation
+📌 2.Salesforce QA – Custom Objects & Field Creation
  This module includes test cases for creating custom objects and fields, such as: 1.Enrollment Object  2.Student Object
  
  Key Features Tested:
@@ -53,7 +53,7 @@ Validation of workflows and relationships
 
 📌 Screenshots of Salesforce  Custom Object and Field Creation.
 
-📌 3. Salesforce CRM QA Project – Student and Enrollment Management
+📌 3. Salesforce QA – Student & Enrollment Workflow
 
 This project focuses on creating new Student and Enrollment records via App Launcher.
 
