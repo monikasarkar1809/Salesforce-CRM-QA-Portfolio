@@ -24,6 +24,10 @@ QA Skills & Expertise
 📌 Salesforce Account, Contact, Oppotunity, Case, Upload File Creating Test Case (Google Sheet)[https://docs.google.com/spreadsheets/d/1tLbn7hW5uj-kKUeo6ucytP_nIm4hMYSxGsbWm1UDfPE/edit?usp=sharing]
 📌 Screenshots of Salesforce records Account, Contact, Opportunity, Case
 
+📌 Salesforce Custom Object QA Project – Custom Object and Field Creation
+This module includes test cases for creating custom objects and fields, such as: 1.Enrollment Object  2.Student Object(Google Sheet) [https://docs.google.com/spreadsheets/d/1_AMFkdcNDZOtPw6ee2VJqFPic07cBDYHXJlgZnmRgtE/edit?usp=sharing]
+📌 Screenshots of Salesforce  Custom Object and Field Creation.
+
 
 🎓 Certifications
 
