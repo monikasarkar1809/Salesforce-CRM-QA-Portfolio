@@ -69,6 +69,27 @@ Picklist validation
 Data accuracy checks
  
  (Google Sheet) [https://docs.google.com/spreadsheets/d/1eu8sqoPXUhHIfufbB_3bViaa4Sp5eRo4qZTkwMWK7QM/edit?usp=sharing]
+
+📌 4. Salesforce QA – Lead to Opportunity Conversion
+
+This project focuses on testing the Lead Conversion process in Salesforce, ensuring that a Lead correctly converts into an Account, Contact, and Opportunity.
+
+Key Scenarios Tested:
+
+Lead creation with required fields (Name, Company, Email, Phone).
+
+Lead conversion into Account, Contact, and Opportunity.
+
+Verification that converted Lead is removed from Leads list.
+
+Validation of Account, Contact, and Opportunity details after conversion.
+
+Deliverables:
+
+Test Cases with detailed steps and validation checks.(Google Sheet) [https://docs.google.com/spreadsheets/d/11Gtq5JSCaudITtLfr7P0JMl0Gi-8PQ6rpPgsVCXR-LM/edit?gid=0#gid=0]
+
+Screenshots of the Lead Conversion process.
+ 
 🎓 Certifications
 
 🛡 Salesforce Administrator
