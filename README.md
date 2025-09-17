@@ -35,7 +35,7 @@ Validation of workflows and relationships
 
 (Google Sheet)[https://docs.google.com/spreadsheets/d/1tLbn7hW5uj-kKUeo6ucytP_nIm4hMYSxGsbWm1UDfPE/edit?usp=sharing]
 
-📌 Screenshots of Salesforce records Account, Contact, Opportunity, Case
+📌 Screenshots of Salesforce records Account,[Screenshot of Account Salesforce.png] Contact, Opportunity, Case
 
 📌 2.Salesforce QA – Custom Objects & Field Creation
  This module includes test cases for creating custom objects and fields, such as: 1.Enrollment Object  2.Student Object
