@@ -88,7 +88,7 @@ Deliverables:
 
 Test Cases with detailed steps and validation checks.(Google Sheet) [https://docs.google.com/spreadsheets/d/11Gtq5JSCaudITtLfr7P0JMl0Gi-8PQ6rpPgsVCXR-LM/edit?gid=0#gid=0]
 
-Screenshots of the Lead Conversion process.
+📌 Screenshots of the Lead Conversion process.
  
 🎓 Certifications
 
