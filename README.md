@@ -114,6 +114,14 @@ Deliverables:
 Test Cases with detailed steps and validation checks.(Google Sheet) [https://docs.google.com/spreadsheets/d/11Gtq5JSCaudITtLfr7P0JMl0Gi-8PQ6rpPgsVCXR-LM/edit?gid=0#gid=0]
 
 📌 Screenshots of the Lead Conversion process.
+
+Creat New Lead [https://drive.google.com/file/d/1pvMBbP9VlM0sMNe5K1oIViDQKuxlWDbI/view?usp=sharing]
+
+Covert Lead To Account, Contact, opportunity [https://drive.google.com/file/d/1p5P0PSW2EoPcXzxwVNbJsC1FD23q94qm/view?usp=sharing]
+
+Convertion Done [https://drive.google.com/file/d/1i8aM6bIOvdK4oHMusTio61mHIlolWhb-/view?usp=sharing]
+
+Verify Convertion Done Correctly [https://drive.google.com/file/d/1onXN2YC3ZICYeG1XUv5m54tA2rOJfsva/view?usp=sharing]
  
 🎓 Certifications
 
