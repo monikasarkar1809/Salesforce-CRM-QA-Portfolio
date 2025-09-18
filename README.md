@@ -23,8 +23,17 @@ QA Skills & Expertise
 
 This project contains test cases for core Salesforce standard objects:
 
+📌 Screenshots of Salesforce records Account,Contact, Opportunity, Case
+
 1.Account [https://drive.google.com/file/d/1Rwc2jh5Qs0H0wyWyAxYU100azi4ud2Bu/view?usp=sharing],
-2.Contact, 3.Opportunity, 4.Case, 5.Upload File,
+
+2.Contact [https://drive.google.com/file/d/12QYxeO8P7jCG9k8JiwUDTGxUBRYq0h3e/view?usp=sharing],
+
+3.Opportunity [https://drive.google.com/file/d/1aNBAGhgpPdyzo6lhPoD0rZSdtFTnhOKR/view?usp=sharing], 
+
+4.Case [https://drive.google.com/file/d/1Tclj-Q3fie6QPppdj22zEXPV1mxqCy-I/view?usp=sharing],
+
+5.Upload File,
 
 Deliverables:
 
