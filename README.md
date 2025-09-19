@@ -122,6 +122,35 @@ Covert Lead To Account, Contact, opportunity [https://drive.google.com/file/d/1p
 Convertion Done [https://drive.google.com/file/d/1i8aM6bIOvdK4oHMusTio61mHIlolWhb-/view?usp=sharing]
 
 Verify Convertion Done Correctly [https://drive.google.com/file/d/1onXN2YC3ZICYeG1XUv5m54tA2rOJfsva/view?usp=sharing]
+
+5. Salesforce QA – Validation Rules Testing
+
+This module includes test cases for creating and testing validation rules on standard objects:
+
+Lead – Email Required
+
+Contact – Phone Required
+
+Key Features Tested:
+
+Creation of validation rules in Object Manager
+
+Testing with positive (valid input) and negative (blank/invalid input) scenarios
+
+Error message verification for invalid records
+
+Successful record creation for valid entries
+
+Edge case handling (spaces, special characters, invalid formats)
+
+📌 Google Sheet – Validation Rules Test Cases
+ [https://docs.google.com/spreadsheets/d/185fJ5X4VS09oggfcNsTUVbXI2XtJx9O7PJ_Icv9urJM/edit?usp=sharing]
+
+📌 Screenshots of Salesforce Validation Rules and error messages.
+
+[https://drive.google.com/file/d/1Y4MdguSJbJ4KaWCRKYKO-3aI3pDkTE3f/view?usp=sharing]
+
+[https://drive.google.com/file/d/1uJg4KC3m4UtFmo-022bG19G_DYLITEhe/view?usp=sharing]
  
 🎓 Certifications
 
