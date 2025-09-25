@@ -167,7 +167,7 @@ Verifying approval history and workflow
  
  (Google Sheet) [https://docs.google.com/spreadsheets/d/1lY4JtsLxnbMfIfjtexeXsWdyXSSY44_Mf0kK5Wha5bk/edit?usp=sharing]
 
-📌 Screenshots of Salesforce  Custom Object and Field Creation.
+📌 Screenshots of Approval Process Testing.
 
 [https://drive.google.com/file/d/1bjAm6DmcO3ziLepzdLqcJyXpyelO9yKG/view?usp=sharing]
 
