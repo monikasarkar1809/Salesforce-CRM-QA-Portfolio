@@ -151,6 +151,30 @@ Edge case handling (spaces, special characters, invalid formats)
 [https://drive.google.com/file/d/1Y4MdguSJbJ4KaWCRKYKO-3aI3pDkTE3f/view?usp=sharing]
 
 [https://drive.google.com/file/d/1uJg4KC3m4UtFmo-022bG19G_DYLITEhe/view?usp=sharing]
+
+
+
+📌 6.Salesforce QA – Approval Process Testing
+ This project demonstrates end-to-end testing of a Salesforce Approval Process for high-value opportunities.
+ 
+ Key Features Tested:
+ 
+ Validating entry criteria for Opportunity Amount > 50,000
+
+Testing approval submission for eligible and non-eligible records
+
+Verifying approval history and workflow
+ 
+ (Google Sheet) [https://docs.google.com/spreadsheets/d/1lY4JtsLxnbMfIfjtexeXsWdyXSSY44_Mf0kK5Wha5bk/edit?usp=sharing]
+
+📌 Screenshots of Salesforce  Custom Object and Field Creation.
+
+[https://drive.google.com/file/d/1bjAm6DmcO3ziLepzdLqcJyXpyelO9yKG/view?usp=sharing]
+
+[https://drive.google.com/file/d/1GKcZzt4rW-osClCG4GmfBNEwJmEtAP_d/view?usp=sharing]
+
+[https://drive.google.com/file/d/1ePM24ufnY3d-msfV8hiEgalgdIzeMw6v/view?usp=sharing]
+
  
 🎓 Certifications
 
