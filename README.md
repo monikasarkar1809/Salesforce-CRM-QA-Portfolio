@@ -123,7 +123,7 @@ Convertion Done [https://drive.google.com/file/d/1i8aM6bIOvdK4oHMusTio61mHIlolWh
 
 Verify Convertion Done Correctly [https://drive.google.com/file/d/1onXN2YC3ZICYeG1XUv5m54tA2rOJfsva/view?usp=sharing]
 
-5. Salesforce QA – Validation Rules Testing
+📌 5. Salesforce QA – Validation Rules Testing
 
 This module includes test cases for creating and testing validation rules on standard objects:
 
@@ -197,6 +197,14 @@ Verified using login-as-user testing and documented results.
  (Google Sheet) [https://docs.google.com/spreadsheets/d/1QiRsNKOK9hkI5SJlAncyesi2G0Iw3A06zRQbFM1tJUg/edit?usp=sharing]
  
 📌 Screenshots of Salesforce  Custom Object and Field Creation.
+
+Revenue field is not visible in Sales Executive User [https://drive.google.com/file/d/1JSeZAlJ-MwB4GGsN-M5AUGZVBHm72u_U/view?usp=sharing]
+
+Revenue field is visible in Sales Manager User [https://drive.google.com/file/d/1TgbiW35EPnfxFdHbZr3HR68kZSfVCkh1/view?usp=sharing]
+
+Delete Option is not available in Sales Executive User [https://drive.google.com/file/d/1u30lL3ChfG9iwIatg7KR1TN4snxICpx5/view?usp=sharing]
+
+Delete option is available in Sales Manager User [https://drive.google.com/file/d/1pko8gTfK9JW7k-UR-8PIYOsNCJY6eMtK/view?usp=sharing]
 
  
 🎓 Certifications
