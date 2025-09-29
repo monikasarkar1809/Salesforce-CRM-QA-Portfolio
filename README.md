@@ -175,6 +175,29 @@ Verifying approval history and workflow
 
 [https://drive.google.com/file/d/1ePM24ufnY3d-msfV8hiEgalgdIzeMw6v/view?usp=sharing]
 
+📌 7.Salesforce QA Project – Profile & Permission Set Testing
+ This module includes test cases for Profile & Permission Set Testing
+ 
+ Key Features Tested:
+
+ Differentiated Lead delete permissions: Sales Manager can delete Lead records while Sales Executive cannot — validated via login-as-user.
+ 
+ Created a custom object (Client) with fields including Revenue.
+
+Configured two custom profiles (Sales Executive & Sales Manager) with different permissions.
+
+Implemented field-level security so only managers can see the Revenue field.
+
+Created and tested users with different profiles to validate access restrictions.
+
+Designed test cases to ensure correct access control at object, field, and report level.
+
+Verified using login-as-user testing and documented results.
+ 
+ (Google Sheet) [https://docs.google.com/spreadsheets/d/1QiRsNKOK9hkI5SJlAncyesi2G0Iw3A06zRQbFM1tJUg/edit?usp=sharing]
+ 
+📌 Screenshots of Salesforce  Custom Object and Field Creation.
+
  
 🎓 Certifications
 
