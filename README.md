@@ -218,7 +218,10 @@ This project tests the creation and functionality of a Salesforce Queue named �
 - Record assignment verification  
 
 📄 [Test Cases (Google Sheet)](https://docs.google.com/spreadsheets/d/1Ou7nG3NF_nLMVH8J2SkEMtooz4a3-S-Mu7GrcS5JG68/edit?usp=sharing)  
+
 📸 Screenshots of Queue setup and assigned records .
+
+1. https://1drv.ms/i/c/b9a2b0458835178d/EY18ecL0qjlDkHdWem7Dr4wB-0BRJ6DasrzOmVG_ZyRr1A?e=aiNnOt
 
 
 
