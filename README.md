@@ -206,6 +206,21 @@ Delete Option is not available in Sales Executive User [https://drive.google.com
 
 Delete option is available in Sales Manager User [https://drive.google.com/file/d/1pko8gTfK9JW7k-UR-8PIYOsNCJY6eMtK/view?usp=sharing]
 
+
+📌  6. Salesforce QA – Queue Management Testing  
+This project tests the creation and functionality of a Salesforce Queue named “New Public Queue,” linked with three custom objects — Enrollment, Student, and Course.  
+**Key Features Tested:**  
+- Queue creation and object assignment  
+- Ownership transfer validation  
+- Queue member accessibility  
+- Record assignment verification  
+
+📄 [Test Cases (Google Sheet)](https://docs.google.com/spreadsheets/d/1Ou7nG3NF_nLMVH8J2SkEMtooz4a3-S-Mu7GrcS5JG68/edit?usp=sharing)  
+📸 Screenshots of Queue setup and assigned records .
+
+
+
+
  
 🎓 Certifications
 
