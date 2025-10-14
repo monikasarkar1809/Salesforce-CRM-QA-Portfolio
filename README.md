@@ -208,7 +208,9 @@ Delete option is available in Sales Manager User [https://drive.google.com/file/
 
 
 📌  8. Salesforce QA – Queue Management Testing  
+
 This project tests the creation and functionality of a Salesforce Queue named “New Public Queue,” linked with three custom objects — Enrollment, Student, and Course.  
+
 **Key Features Tested:**  
 - Queue creation and object assignment  
 - Ownership transfer validation  
