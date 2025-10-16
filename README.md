@@ -74,19 +74,29 @@ Enrollment Custom Object [https://drive.google.com/file/d/1KClDMqtq1cMojnoX2qDxD
 Student Custom Object [https://drive.google.com/file/d/1gYfNPvWo5-4RY2J_GAlsDDOPd6tXdOZ3/view?usp=sharing]
 
 
-📌 3. Salesforce QA – Student & Enrollment Workflow
+📌 3. Salesforce QA – Student Course & Enrollment Workflow Junction Object.
 
-This project focuses on creating new Student and Enrollment records via App Launcher.
+📌 Project Overview
 
-Workflow Tested: Navigate to App Launcher, Create New Enrollment,From Enrollment, create New Student directly
+This project validates the Student–Course–Enrollment workflow in Salesforce. It covers the process of creating Student, Course, and Enrollment records directly from the App Launcher. The testing ensures proper linkage among these custom objects and verifies field configurations, picklist values, and record relationships.
 
-Key Deliverables:
+🔑 Workflow Tested
 
-Test cases for Student and Enrollment creation
+Navigate to App Launcher → Open Enrollment
 
-Picklist validation
+From Enrollment → Create New Student
 
-Data accuracy checks
+Link existing or new Course records
+
+Save and verify Enrollment–Student–Course relationships
+
+⚙️ Key Deliverables
+
+Test cases for creating Student, Course, and Enrollment records
+
+Picklist validation for fields like Status, Grade, and Payment Status
+
+Data accuracy and relationship validation between all objects
  
  (Google Sheet) [https://docs.google.com/spreadsheets/d/1eu8sqoPXUhHIfufbB_3bViaa4Sp5eRo4qZTkwMWK7QM/edit?usp=sharing]
 
@@ -99,6 +109,10 @@ Data accuracy checks
 New Student Creating [https://drive.google.com/file/d/1AyStp-VmliF7cs0tMfPqdXsLuMx5lkIJ/view?usp=sharing]
 
  Ater Creating New Student [https://drive.google.com/file/d/190cwtGiC60xdCDruvsVVD8LVmb96XiY-/view?usp=sharing]
+
+ New Course [https://drive.google.com/file/d/1Ncyhqs1JqxIJtqLG8YBVD30_XXtEQdmk/view?usp=sharing]
+
+After Course [https://drive.google.com/file/d/1VOGUDTFaMGGBqNpTuzP7RXneF3gncOZU/view?usp=sharing]
 
  
 📌 4. Salesforce QA – Lead to Opportunity Conversion
