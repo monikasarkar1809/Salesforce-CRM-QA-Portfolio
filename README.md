@@ -21,7 +21,11 @@ QA Skills & Expertise
 
 📌 1. Salesforce QA – Standard Objects Testing
 
-This project contains test cases for core Salesforce standard objects:
+📌 Project Overview
+
+This project focuses on testing the core Account Management functionalities within Salesforce. The objective was to verify that users can efficiently manage Accounts, Contacts, Opportunities, Cases, Files, and Chatter activities from a single record view. Each scenario was validated end-to-end to ensure accurate data relationships, UI functionality, and workflow consistency.
+
+Testing was performed manually in a Salesforce sandbox environment, covering creation, editing, deletion, and verification of records and related lists.
 
 📌 Screenshots of Salesforce records Account,Contact, Opportunity, Case
 
