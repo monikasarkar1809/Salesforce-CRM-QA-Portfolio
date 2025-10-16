@@ -51,8 +51,7 @@ Validation of workflows and relationships
 
 
 📌 2.Salesforce QA – Custom Objects & Field Creation
- This module includes test cases for creating custom objects and fields, such as: 1.Enrollment Object  2.Student Object
- 
+ This project validates the creation and configuration of custom objects — Student and Enrollment — in Salesforce. The focus was to ensure proper setup of fields, relationships, and deployment using Salesforce Setup. Testing covered object creation, field validation, and lookup relationship linking.
  Key Features Tested:
  
  Adding custom fields (Text, Picklist, Lookup)
