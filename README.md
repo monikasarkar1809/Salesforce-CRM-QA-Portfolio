@@ -5,6 +5,8 @@ Salesforce QA Analyst | Manual Testing | Salesforce QA | API Testing | Jira | Po
 Hello! I'm Monika, a passionate and detail-oriented QA Analyst with 1.5 years of hands-on experience in software testing. My focus is on ensuring quality by testing across web, mobile, and Salesforce environments, writing structured test cases, and reporting defects effectively.
 QA Skills & Expertise
 
+![image alt](https://github.com/monikasarkar1809/Salesforce-CRM-QA-Portfolio/blob/d0f3cc06257d31f07da83620e36e319aa6b55937/Salesforce%20CRM%20QA%20Portfolio%20Overview.png)
+
 ✅ Manual Testing – Functional, Regression, Cross-browser, Web & Mobile App Testing
 
 ✅ Salesforce QA – Testing CRM workflows, validation rules, flows, and reports
