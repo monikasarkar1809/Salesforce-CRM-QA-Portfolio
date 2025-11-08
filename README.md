@@ -1,6 +1,6 @@
 👩‍💻 Monika Sarkar
 
-Salesforce QA Analyst | Manual Testing | Salesforce QA | API Testing | Jira | Postman
+Salesforce QA Analyst | Manual Testing | Salesforce QA | API Testing | Jira | Postman |Selenium
 
 Hello! I'm Monika, a passionate and detail-oriented QA Analyst with 1.5 years of hands-on experience in software testing. My focus is on ensuring quality by testing across web, mobile, and Salesforce environments, writing structured test cases, and reporting defects effectively.
 QA Skills & Expertise
